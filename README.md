@@ -126,3 +126,7 @@ Demonstrating practical NLP application in portfolios
 📌 Author
 
 Developed as part of AI/ML learning and interview preparation practice.
+
+## 🚀 Live Demo
+
+Try it live → https://ai-interview-practice-bot-gy2kghmwduns6hzculsmlp.streamlit.app/
